@@ -2,6 +2,11 @@
 
 Scan to pay assessment
 
+## Design and Postman Collection
+find these two files on the root
+erd.png
+Banking-app-usecase.postman_collection.json
+
 ## Installation
 
 ```bash
